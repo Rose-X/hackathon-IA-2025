@@ -1,9 +1,6 @@
-"""
-AW2A3-IA — Etape 2 : Entrainement (version sans TensorFlow)
-============================================================
-Lance : python 02_train.py
-Utilise scikit-learn — fonctionne sur Python 3.12
-"""
+#Theo Pizzardi
+#Alexandre Medor
+#Wiam Essadki
 
 import os
 import numpy as np
