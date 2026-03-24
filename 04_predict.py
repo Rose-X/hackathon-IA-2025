@@ -1,3 +1,7 @@
+#Theo Pizzardi
+#Alexandre Medor
+#Wiam Essadki
+
 import sys
 import os
 import numpy as np
